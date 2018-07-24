@@ -17,5 +17,7 @@ return facts
 
 function iLoveTheBeatles(number){
   var array =[]
-  do
+  do {
+    array.push("I love the Beatles!")
+  }
 }
